@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2273f8e3-ec04-4dec-aff0-f1e831303448" name="Changes" comment="create new Project in PyCharm for lesson">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2273f8e3-ec04-4dec-aff0-f1e831303448" name="Changes" comment="update for task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713697704000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update for task">
+      <option name="closed" value="true" />
+      <created>1714733272756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714733272756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create new Project in PyCharm for lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new Project in PyCharm for lesson" />
+    <MESSAGE value="update for task" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for task" />
   </component>
 </project>
